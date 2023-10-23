@@ -1,2 +1,2 @@
 # Banka-Otomasyonu
-C# ve Sanallaştırma Teknolojisi üzerine Banka Otomasyonu
+C# ile Banka Otomasyonu
